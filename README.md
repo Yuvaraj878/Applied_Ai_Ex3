@@ -1,5 +1,5 @@
 <H3>NAME : Yuvaraj S </H3>
-<H3>REGISTER NO. : 212222240047</H3>
+<H3>REGISTER NO. : 212222240119</H3>
 <H3>EX. NO.3</H3>
 <H3>DATE: </H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
